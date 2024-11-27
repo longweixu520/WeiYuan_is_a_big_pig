@@ -1,0 +1,3 @@
+/Users/longweixu/Desktop/韦媛/OS1/cmake-build-debug/CMakeFiles/OS1.dir
+/Users/longweixu/Desktop/韦媛/OS1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/longweixu/Desktop/韦媛/OS1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
